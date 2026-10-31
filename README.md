@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dina 👋</h1>
 
-<!--
-**dinashydaei/dinashydaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Beyond the Data. 🪐</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computer Engineering Student | Data Science & Machine Learning
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+- 🎓 Computer Engineering Student
+- 🧠 Interested in Data Science and Machine Learning
+- 🐍 Working with Python and SQL
+- 🔍 Exploring patterns and building intelligent models
+- 🚀 Always learning, experimenting and creating
+
+
+<p>
+  Python · SQL · Pandas · NumPy · Scikit-learn
+  <br>
+  Power BI · Matplotlib · Seaborn · Git
+</p>
+
+---
+
+<p align="center">
+  <i>Think deeply. Build intelligently. Stay curious.</i>
+</p>
